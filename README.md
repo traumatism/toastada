@@ -11,8 +11,8 @@ awesome 14yo haxor that grief minecraft servers
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td align="left"><a href="https://youtube.com/itstoastz">Click here</a></td>
-	            <td align="center"><a href="https://telegram.me/wejdene">Click here</a></td></td>
+	            <td align="left"><a href="https://youtube.com/itstoastz" target="_blank">Click here</a></td>
+	            <td align="center"><a href="https://telegram.me/wejdene" target="_blank">Click here</a></td></td>
 	            <td align="right">badaboum#6183</td>
 	        </tr>
 	    </tbody>
