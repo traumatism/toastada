@@ -1,8 +1,5 @@
-  __                __ _______ ________<br>
- / /____  ___ ____ / /<  /_  /|_  /_  /<br>
-/ __/ _ \/ _ '(_-</ __/ //_ <_/_ < / /<br>
-\__/\___/\_,_/___/\__/_/____/____/_/<br>
-<h2 align="center">aka satan 👹</h2>
+<h1 align="center">🍞 t o a s t 1 3 3 7 🍞</h1>
+<h3 align="center">👹 aka satan 👹</h3>
 <p align="center">
 	<table>
 	    <thead>
