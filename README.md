@@ -1,5 +1,5 @@
 <h1 align="center">toast1337</h1>
-awesome 14yo haxor that grief minecraft servers
+<h2 align="center">aka satan 👹</h2>
 <p align="center">
 	<table>
 	    <thead>
