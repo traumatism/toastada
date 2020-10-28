@@ -1,4 +1,4 @@
-<h1 align="center">🍞 ⋆ 🎀  𝓉o𝒶𝓈𝓉 𝟣𝟥𝟥𝟩  🎀 ⋆ 🍞</h1>
+<h1 align="center">🍞 ⋆ 🎀  𝓉𝓸𝒶𝓈𝓉 𝟣𝟥𝟥𝟩  🎀 ⋆ 🍞</h1>
 <h3 align="center">👹 aka satan 👹</h3>
 <p align="center">
 	<table>
