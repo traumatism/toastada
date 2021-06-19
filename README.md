@@ -1,22 +1,26 @@
-<h1 align="center">🍞 ⋆ 🎀 traumatism 🎀 ⋆ 🍞</h1>
-<h1 align="center">[+]──────────────────────────────[+]</h1>
-<h3 align="center">👹 aka AuthMeBridge, iTsToastZ 👹</h3>
-<p align="center">
-	<table align="center">
-	    <thead>
-	        <tr>
-	            <th align="center">YouTube 💗</th>
-	            <th align="center">Telegram 💙</th>
-	            <th align="center">Discord 💜</th>
-	        </tr>
-	    </thead>
-	    <tbody>
-	        <tr>
-	            <td align="left"><a href="https://youtube.com/itstoastz" target="_blank">Click here</a></td>
-	            <td align="center"><a href="https://telegram.me/wejdene" target="_blank">Click here</a></td></td>
-	            <td align="right">badaboum#1337</td>
-	        </tr>
-	    </tbody>
-	</table align="center">
-</p>
+# Traumatism 
+### a.k.a iTsToastZ 🚬
 
+```
+$ py whoami.py
+
+[+] Personnal infos
+
+Name..........: traumatism (or toast)
+Age...........: 15 (may 2006)
+Country.......: France (Bretagne)
+
+[+] Coding-related infos
+
+Coding since..: 2 years
+IDE...........: Visual Studio Code
+Languages.....: Rust & Python (also a bit of Java)
+OS............: MacOS & Windows (+ WSL running Kali)
+
+[+] Social networks
+
+Telegram......: /epicpatrick/
+Youtube.......: /iTsToastZ/
+Discord.......: bouboubou#4546
+Twitter.......: /toastakerman/
+```
