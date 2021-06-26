@@ -11,6 +11,7 @@ $ whoami
  |
  |- Name..........: traumatism (or toast)
  |- Age...........: 15 (may 2006)
+ |- Languages.....: French, English, Chinese
  '- Country.......: France (Bretagne 🌧)
 
 [+] Coding-related infos 🖥
@@ -26,4 +27,5 @@ $ whoami
  |- Youtube.......: /iTsToastZ/
  |- Discord.......: bouboubou#4546
  '- Twitter.......: /toastakerman/
+ 
 ```
