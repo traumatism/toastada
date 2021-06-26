@@ -1,7 +1,10 @@
-# Traumatism 
-### a.k.a iTsToastZ 🚬
 
-```
+```   
+_|_ __ _    __  _ _|_ *  _ __ 
+ |_ | (_||_||||(_| |_ | _> |||
+ 
+            a.k.a. itstoastz 🚬
+
 $ whoami
 
 [+] Personnal infos 🧑‍💻
