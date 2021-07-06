@@ -7,8 +7,6 @@
                                              
                          a.k.a. itstoastz 🚬
 
-$ whoami
-
 [+] Personnal infos 🧑‍💻
  |
  |- Name..........: traumatism (or toast)
