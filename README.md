@@ -1,5 +1,3 @@
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=hello+world) `#f03c15`
-
 ```   
   __                           __  _         
  / /________ ___ ____ _  ___ _/ /_(_)__ __ _ 
